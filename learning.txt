@@ -1,5 +1,9 @@
+regular expression prhni hai
 tokenizing - word tokenizers.. sentence tokenizers
 lexicon and corporas
 corporas - body of text ex: medical journals, preseidential speeches
 lexicon - words and their means
 investor-speak.. regular english-speak
+Chinking- removal of something from the chunk
+
+lemmatize means to convert synonyms word to most common words

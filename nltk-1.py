@@ -8,4 +8,4 @@ EXAMPLE_TEXT = "Hello Mr. Smith, how are you doing today? The weather is great, 
 # print(word_tokenize(EXAMPLE_TEXT))
 
 for i in word_tokenize(EXAMPLE_TEXT):
-    print(i)
+    print(i
